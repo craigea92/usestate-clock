@@ -2,6 +2,12 @@
 
 ## Project Description
 
+I recently completed a project that involved creating a functional clock using a React useState hook. As someone who has been working extensively with React hooks, it's been fascinating to discover the limitless potential of React and how it can be applied to real-world components. Initially, the project began as a basic up and down counter, but with the help of the useState hook, I was able to swiftly transform it into a functional clock that updates every second.
+
+Although the project was straightforward, I found it captivating to delve into the details of how hooks work and what their output entails. The documentation provided by React was especially helpful in guiding me through the process.
+
+Currently, the project is finished, and there are no plans to modify it in the future.
+
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://reactjs.org/"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"/> </a>
